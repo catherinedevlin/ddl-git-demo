@@ -1,0 +1,6 @@
+version control
+programming patterns
+IDEs
+jcontainers
+jwidgets
+
